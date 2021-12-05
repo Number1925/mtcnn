@@ -1,0 +1,5 @@
+DATA/
+.vscode/
+logs/
+logs_local/
+save_models/
